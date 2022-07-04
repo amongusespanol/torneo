@@ -1,7 +1,3 @@
-<header>
-  <!-- TL;DR -->
-</header>
-
 # TORNEO DE AMONG US - ESPAÑOL
 
 **Bienvenidos al primer torneo de Among Us - Español.**
