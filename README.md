@@ -1,10 +1,19 @@
-## TORNEO DE AMONG US - ESPAÑOL
+<header>
+      <div class="inner">
+        <a href="https://amongusespanol.github.io/torneo/">
+          <h1>Torneo Among Us - Español</h1>
+        </a>
+        <h2>discord.gg/amongus-esp</h2>  
+      </div>
+</header>
 
-Bienvenidos a la web informativa del primer torneo de Among Us - Español.
+# TORNEO DE AMONG US - ESPAÑOL
+
+**Bienvenidos al primer torneo de Among Us - Español.**
 
 Aquí podrán encontrar todo el reglamento del torneo como así las clasificaciones y demás información relevante para el mismo.
 
-## Requisitos para participar.
+### Requisitos para participar.
 
 1. Tener por lo menos "Tier 1" (puedes conseguirlo siendo activo en el servidor en canales de voz o texto)
 2. Contar con acceso al juego en cuestión (Among Us) sin errores técnicos.
@@ -25,4 +34,4 @@ Toda información respecto a horarios, rivales y demás información necesaria p
 
 Quien esté encargado de cada ronda tendrá 10 minutos a partir de la hora indicada para poder crear, configurar la partida y, además, hacerles llegar el código a todos los participantes para poder iniciar la partida antes de que esos 10 minutos haya terminado.
 
-# Participantes. 
+## Participantes. 
