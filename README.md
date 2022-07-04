@@ -1,10 +1,5 @@
 <header>
-      <div class="inner">
-        <a href="https://amongusespanol.github.io/torneo/">
-          <h1>Torneo Among Us - Español</h1>
-        </a>
-        <h2>discord.gg/amongus-esp</h2>  
-      </div>
+  <!-- TL;DR -->
 </header>
 
 # TORNEO DE AMONG US - ESPAÑOL
