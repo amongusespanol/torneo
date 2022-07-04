@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+## TORNEO DE AMONG US - ESPAÑOL
 
-You can use the [editor on GitHub](https://github.com/amongusespanol/torneo/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Bienvenidos a la web informativa del primer torneo de Among Us - Español.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Aquí podrán encontrar todo el reglamento del torneo como así las clasificaciones y demás información relevante para el mismo.
 
-### Markdown
+## Requisitos para participar.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. Tener por lo menos "Tier 1" (puedes conseguirlo siendo activo en el servidor en canales de voz o texto)
+2. Contar con acceso al juego en cuestión (Among Us) sin errores técnicos.
+3. Al momento de participar, contar con un buen acceso a internet para evitar desconexiones.
 
-```markdown
-Syntax highlighted code block
+### Proceso de inscripción.
 
-# Header 1
-## Header 2
-### Header 3
+Como bien se puede apreciar en el anuncio de Discord, para inscribirte deberás [ingresar aquí](https://docs.google.com/forms/d/e/1FAIpQLSfKa841s69Jz5arxvgowyCHxuDXWbL8ePmgteO5FyNMqPEC9w/viewform) y completar con los datos correspondientes.
+Si tu postulación es aceptada, recibirás tanto una notificación como un rol de "Participante".
 
-- Bulleted
-- List
+### Asistencia.
 
-1. Numbered
-2. List
+Llegado el día deberás presentarte en el canal de voz previamente informado **hasta 15 minutos antes del comienzo del torneo** en caso de no presentarte se te podrá marcar como **ausente** lo cual te inhabilitará a participar.
 
-**Bold** and _Italic_ and `Code` text
+Toda información respecto a horarios, rivales y demás información necesaria para dicho momento será informado previamente mediante el canal de anuncios del torneo que podrás visualizar cuando tu inscripción haya sido aceptada por algún organizador.
 
-[Link](url) and ![Image](src)
-```
+### Encargado.
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Quien esté encargado de cada ronda tendrá 10 minutos a partir de la hora indicada para poder crear, configurar la partida y, además, hacerles llegar el código a todos los participantes para poder iniciar la partida antes de que esos 10 minutos haya terminado.
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/amongusespanol/torneo/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# Participantes. 
